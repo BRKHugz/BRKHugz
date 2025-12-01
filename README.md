@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Hugo Mendonça and my nickname is "Huguinho"!
+## My name is Hugo Mendonça!
 
 ## Estou aprendendo:
 
